@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Athena27
 - 👀 I’m interested in ... learning basic programming skills
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... not anything big 
+- 💞️ I’m looking to collaborate on ... nothing right  now, but maybe eventually once I learn more
 - 📫 How to reach me ... athena.esser@gmail.com
 
 <!---
